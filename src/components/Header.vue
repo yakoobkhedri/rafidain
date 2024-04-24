@@ -102,13 +102,13 @@
       </a>
     </div>
     <div class="py-7 bg-primary md:bg-white">
-      <div class="container mx-auto px-5 flex items-center justify-between">
+      <div class="container mx-auto px-5 flex items-center justify-between md:justify-end lg:justify-center relative">
         <div
           class="md:flex hidden items-center gap-7 text-sm [&>*]:cursor-pointer"
         >
           <!-- logo -->
-          <a>
-            <img alt="logo" src="../assets/img/logo.png" class="w-24" />
+          <a class="absolute left-0">
+            <img alt="logo" src="../assets/img/logo.png" class="w-32" />
           </a>
         </div>
         <div
