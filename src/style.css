@@ -34,6 +34,9 @@
 .shadow5{
   box-shadow: 0 5px 83px rgb(3 43 86 / 12%);
 }
+.shadow6{
+  box-shadow: rgba(0, 0, 0, 0.06) 0px 0px 30px 0px;
+}
 #choose{
   background-image: url('assets/img/choose-bg.jpg');
   background-size: cover;
@@ -48,6 +51,12 @@
 }
 #testimonial{
   background-image: url('assets/img/testi-bg-1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#contact{
+  background-image: url('assets/img/video-bg.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
